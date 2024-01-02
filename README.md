@@ -10,7 +10,6 @@ This is a simple note-taking application built with React, Redux, and Tailwind C
 
    ```bash
    git clone --branch master https://github.com/AlbertAinstine578/Note-maker-app.git
-bash```
 
 2. Navigate to the Project Directory:
    cd Note-maker-app
